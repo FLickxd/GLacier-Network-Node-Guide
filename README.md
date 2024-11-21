@@ -35,8 +35,22 @@ This repository provides a one-click guide to set up and run a **Glacier Verifie
 
 ### **Step 1: Run the Setup Script**
 
-Copy and run the following command in your VPS terminal:
+Before running the script, make sure you have **OpBNB** to cover gas fees.  
+Get **OpBNB** from the **@OpBNBTestnet** Discord and bridge your **BNB** to **OpBNB**.
 
+Once you have OpBNB, copy and run one of the following commands in your VPS terminal:
+
+#### Using `curl`:
 ```bash
 curl -sSL https://raw.githubusercontent.com/FLickxd/GLacier-Network-Node-Guide/main/setup_glacier_node.sh | bash
+
+
+#### Using `wget`:
+wget -qO- https://raw.githubusercontent.com/FLickxd/GLacier-Network-Node-Guide/main/setup_glacier_node.sh | bash
+
+
+View Logs:
+docker logs -f glacier-verifier
+Stop the Node:
+docker stop glacier-verifier && docker rm glacier-verifier
 
