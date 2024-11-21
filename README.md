@@ -51,6 +51,8 @@ wget -qO- https://raw.githubusercontent.com/FLickxd/GLacier-Network-Node-Guide/m
 
 View Logs:
 docker logs -f glacier-verifier
+
+
 Stop the Node:
 docker stop glacier-verifier && docker rm glacier-verifier
 
