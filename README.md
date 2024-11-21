@@ -28,6 +28,8 @@ This repository provides a one-click guide to set up and run a **Glacier Verifie
 
 Before running the script, make sure you have **OpBNB** to cover gas fees.  
 Get **OpBNB** from the **https://discord.com/invite/bnbchain** Discord and bridge your **BNB** to **OpBNB** here https://opbnb-testnet-bridge.bnbchain.org/deposit.
+CHECK YOUR NODE STATUS : https://testnet.nodes.glacier.io/status
+NOTE: AFTER 30 MIN Verifications starts!!!
 
 Once you have OpBNB, copy and run one of the following commands in your VPS terminal:
 
