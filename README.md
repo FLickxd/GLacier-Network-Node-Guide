@@ -2,16 +2,7 @@
 
 This repository provides a one-click guide to set up and run a **Glacier Verifier Node** on your VPS. The script automates the installation of necessary dependencies like Docker and configures the Glacier Verifier Node for you.
 
----
 
-## Features
-
-- **Automated Setup**: Installs Docker and other dependencies automatically.
-- **Easy Configuration**: Just provide your private key when prompted.
-- **Lightweight**: Requires minimal system resources.
-- **ASCII Art Header**: Displays your custom "FLIADEX" logo during setup.
-
----
 
 ## Requirements
 
