@@ -18,16 +18,16 @@ This repository provides a one-click guide to set up and run a **Glacier Verifie
 
 ### **Software Requirements**
 - A Linux-based VPS.
-- Docker installed (the script will handle installation if not present).
 
----
+
 
 ## Setup Instructions
 
 ### **Step 1: Run the Setup Script**
 
 Before running the script, make sure you have **OpBNB** to cover gas fees.  
-Get **OpBNB** from the **https://discord.com/invite/bnbchain** Discord and bridge your **BNB** to **OpBNB** here https://opbnb-testnet-bridge.bnbchain.org/deposit.
+Get **OpBNB** from the **https://discord.com/invite/bnbchain** Discord 
+Bridge your **BNB** to **OpBNB** here https://opbnb-testnet-bridge.bnbchain.org/deposit.
 CHECK YOUR NODE STATUS : https://testnet.nodes.glacier.io/status
 NOTE: AFTER 30 MIN Verifications starts!!!
 
